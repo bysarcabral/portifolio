@@ -1,48 +1,41 @@
-<h1 align= "center">Portifólio - Alura HTML e CSS</h1>
+<h1 align="center">Portifólio</h1>
+
+<div align="center">
+  <strong>🚀 Veja um pouco sobre mim e minha jornada da aprendizagem 📚</strong>
+</div>
+
 <p align="center">
-<a href="#-sobre-o-projeto">Sobre o projeto</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-tecnologias-e-habilidades">Tecnologias e Habilidades</a> • 
- <a href="#-autora">Autora</a>
+    <a href="#-visão-do-projeto">Visão do projeto</a> •
+    <a href="#-layout">Layout</a> • 
+    <a href="#-tecnologias">Tecnologias</a> •
+    <a href="#-instruções">Instruções</a> •
+    <a href="#-autora">Autora</a>
  </p>
 
- ## 💻 Sobre o projeto
- Um projeto desenvolvido durante a ministração dos cursos de HTML e CSS da plataforma de ensino Alura. A página mostra um pouco sobre a autora e suas habilidades.
 
- ## 🎨 Layout
- O design está disponível no [Figma](https://www.figma.com/proto/3N50NADAVNzaz8WvgK8Ao5/Portfolio---Curso-HTML-e-CSS-Alura?t=gD4UsMCadlXxOLXX-1) para visualização. 
- Clique nas imagens e seja direcionado para a página. Fique a vontade para conferir!
+## 🔭 Visão do projeto
 
-<h3>Desktop</h3>
-    <p align="center">
-        <a href="https://portifolio-seven-vert-24.vercel.app/" target="_blank">
-            <img src="./assets/assetsREADME/pagina-desktop.png" alt="Página em uma tela Desktop">
-        </a>
-    </p>
+<p>O projeto foi desenvolvido com base nos cursos de HTML e CSS da Alura como prática mediante os assuntos trabalhados durante a formação Iniciante em Programação da Oracle Next Education. Confira e veja um pouco mais sobre a autora e sobre suas habilidades, confira também as redes logo abaixo.</p>
 
-<h3>Mobile</h3>
-    <a href="https://portifolio-seven-vert-24.vercel.app/" target="_blank">
-        <img src="./assets/assetsREADME/pagina-mobile.png" alt="Página em uma tela Mobile">
-    </a>
+## 🎨 Layout
+- O design está disponível no [Figma](https://www.figma.com/proto/3N50NADAVNzaz8WvgK8Ao5/Portfolio---Curso-HTML-e-CSS-Alura?t=gD4UsMCadlXxOLXX-1) para visualização. Fique a vontade para conferir!
+- Clique na imagem abaixo e seja direcionado para o link da página.
 
-## 🛠 Tecnologias e Habilidades
+<a href="https://portifolio-seven-vert-24.vercel.app/" target="_blank">
+    <img src="./assets/README/pagina-desktop.png" alt="Página em uma tela Desktop">
+</a>
 
-* HTML
-* CSS
-* Flexbox
-* Responsividade
-* GitHub
-* Vercel
+
+
+## 💻 Tecnologias
+
+[![Tenologias](https://skillicons.dev/icons?i=html,css,github,vercel)](https://skillicons.dev)
+
+## ⚙️ Instruções
+
+- Ao clicar nos ícones das redes, você será direcionado automaticamente em uma nova aba para os perfis da autora.
 
 ## 🧙‍♂️ Autora
-
-
-<p align="center" style= "display: flex;justify-content: flex-start; align-items: center;">
-    <a href="https://www.linkedin.com/in/sarcabral/" target="_blank" style="padding: 0 5% 0 0;">
-        <img src="./assets/assetsREADME/linkedin.svg" width=50px>
-    </a>
-    @sarcabral
-    <a href="mailto:sarah000cabral@gmail.com" target="_blank" style="padding: 0 0 0 5%;">
-        <img src="./assets/assetsREADME/envelope-solid.svg" width=50px>
-    </a>
-</p>
+[![Linkedin: Sarah Cabral](https://img.shields.io/badge/-sarcabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarcabral//)](https://www.linkedin.com/in/sarcabral/)
+[![Gmail Badge](https://img.shields.io/badge/-Sarah_Cabral-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarah000cabral@gmail.com)](mailto:sarah000cabral@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/sarcabral?label=follow&style=social)](https://github.com/sarcabral)
