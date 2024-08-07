@@ -54,6 +54,10 @@ body{
 .titulo-destaque{
     color: var(--cor-terciaria);
 }
+.apresentacao__conteudo__topicos{
+    font-size: 1.5rem;
+    font-family: var(--fonte-principal);
+}
 .apresentacao__conteudo__texto{
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
